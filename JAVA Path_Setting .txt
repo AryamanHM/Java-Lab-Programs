@@ -1,0 +1,4 @@
+set path=%path%;C:\Program Files\Java\jdk1.7.0_25\bin;
+set path=C:\Program Files\Java\jdk1.7.0_25\bin;%path%;
+set CLASSPATH=%CLASSPATH%;C:\Program Files\Java\jdk1.7.0_25\bin;
+set CLASSPATH=%CLASSPATH%;.;C:\JSDK2.0\jsdk2.1\servlet.jar;
